@@ -1,0 +1,10 @@
+a=int(input("enterthenumber"))
+b=int(input("enterthenumber"))
+c=int(input("enterthenumber"))
+d=int(input("enterthenumber"))
+e=int(input("enterthenumber"))
+b+=a
+c-=b
+d*=b
+e/=d
+print(b,c,d,e)
